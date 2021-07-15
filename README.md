@@ -3,6 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Jorgee Alves">
 
+<br>
 ## I'm Ecole 42 Cadet and currently study Software Engineering
 
 <br><br>
