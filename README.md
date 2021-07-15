@@ -9,6 +9,6 @@ Feel free to get in touch with me:
 
 <p align="left">
   <a href="mailto:alezamarion@icoud.com" alt="iCloud">
-  <img src="https://img.shields.io/badge/-iCloud-e34c41?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
+  <img src="https://img.shields.io/badge/-iCloud-0e4bef?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
 
  
