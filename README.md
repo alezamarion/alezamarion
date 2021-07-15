@@ -14,10 +14,8 @@ Feel free to get in touch with me:
  
 <br><br><br><br>
  
-<div>
   ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alezamarion&theme=default&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&layout=compact)](https://github.com/alezamarion/github-readme-stats)  
-<\div>
   
 
 
