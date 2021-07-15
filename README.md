@@ -13,8 +13,13 @@ Feel free to get in touch with me:
   <img src="https://img.shields.io/badge/-iCloud-0e4bef?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
   
   
- <br><br><br>
+ <br><br><br><br>
   ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alezamarion&theme=default&show_icons=true)
+  
+  <br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&layout=compact)](https://github.com/alezamarion/github-readme-stats)
+
+
 
 
  
