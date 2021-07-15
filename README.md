@@ -6,10 +6,9 @@
 ## I'm Ecole 42 Cadet and currently study Software Engineering
 
 Feel free to get in touch with me:
-:arrow_down:
 
 <p align="left">
   <a href="mailto:alezamarion@icoud.com" alt="iCloud">
-  <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=" /></a>
+  <img src="https://img.shields.io/badge/-iCloud-e34c41?style=flat-square&labelColor=e34c41&logo=icloud&logoColor=white&link=" /></a>
 
  
