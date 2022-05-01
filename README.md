@@ -1,7 +1,7 @@
 
 ### Hi there, Alexandre Zamarion Cepeda here :wave: <br>
 
-<br><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Alexandre Zamarion">
+<br><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Alexandre Zamarion"><br>
 
 ## I'm Ecole 42 Cadet and currently study Software Engineering
 
