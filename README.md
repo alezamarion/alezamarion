@@ -4,7 +4,7 @@
 <br><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Alexandre Zamarion"><br>
 
 ## I'm Ecole 42 Cadet and currently study Software Engineering
-
+## I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a>
 <br><br><br>
 Feel free to get in touch with me:
 
