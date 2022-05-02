@@ -1,10 +1,11 @@
 
-### Hi there, Alexandre Zamarion Cepeda here :wave:
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Alexandre Zamarion">
 
+### Hi there, Alexandre Zamarion Cepeda here :wave:
+<br>,br>
+
 ### I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a>
-<br><br><br>
+<br><br>
 
 ### Feel free to get in touch with me:
 
