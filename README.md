@@ -5,7 +5,8 @@
 
 ### I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a>
 <br><br><br>
-Feel free to get in touch with me:
+
+### Feel free to get in touch with me:
 
 <p align="left">
   <a href="mailto:alezamarion@icoud.com" alt="iCloud">
