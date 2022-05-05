@@ -19,7 +19,10 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
+<div>
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alezamarion&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&theme=dracula&layout=compact)](https://github.com/alezamarion/github-readme-stats)  
+</div><br>
 
 <div style="display: inline_block">
 <img align="center" alt="Alexandre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
