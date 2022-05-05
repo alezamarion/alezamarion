@@ -17,7 +17,7 @@
  <a href="https://github.com/alezamarion">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alezamarion&theme=dracula&show_icons=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div><br><br>
 
 <div style="display: inline_block">
 <img align="center" alt="Alexandre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
