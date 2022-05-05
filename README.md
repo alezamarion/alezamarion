@@ -11,13 +11,13 @@
 <p align="left">
   <a href="mailto:alezamarion@icoud.com" alt="iCloud">
   <img src="https://img.shields.io/badge/-iCloud-0e4bef?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
-</div><br><br><br>
+</div><br><br>
 
 <div>
  <a href="https://github.com/alezamarion">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alezamarion&theme=dracula&show_icons=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezamarion&layout=compact&langs_count=16&theme=dracula"/>
-</div><br><br>
+</div><br>
 
 <div style="display: inline_block">
 <img align="center" alt="Alexandre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
