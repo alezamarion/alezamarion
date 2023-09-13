@@ -9,8 +9,9 @@
 ### Feel free to get in touch with me:
 <div>
 <p align="left">
+  <a href="https://www.linkedin.com/in/alexandre-zamarion-cepeda-a3766323a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:alezamarion@icoud.com" alt="iCloud">
-  <img src="https://img.shields.io/badge/-iCloud-0e4bef?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
+  <img height="28" width="80" src="https://img.shields.io/badge/-iCloud-0e4bef?style=flat-square&labelColor=0e4bef&logo=icloud&logoColor=white&link=" /></a>
 </div><br><br>
 
 <div>
