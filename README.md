@@ -1,10 +1,10 @@
 
 ### Hi there, Alexandre Zamarion Cepeda here :wave:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Alexandre Zamarion">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Alexandre Zamarion">
 <br>
 
-### I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a>
-<br>
+### I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a><br>
+### I am also attending the Santander Bootcamp 2023 - Data Science with Python<br><br>
 
 ### Feel free to get in touch with me:
 <div>
