@@ -4,7 +4,6 @@
 <br>
 
 ### I’m currently studying Software Engineering at <a href="https://www.42sp.org.br/">42 São Paulo</a><br>
-### I am also attending the Santander Bootcamp 2023 - Data Science with Python<br><br>
 
 ### Feel free to get in touch with me:
 <div>
